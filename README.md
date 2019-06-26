@@ -1,2 +1,2 @@
-# MNIST-Digits-Neural-Networks-
+# MNIST Digits Neural Networks
 NN for digit recognition
